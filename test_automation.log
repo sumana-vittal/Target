@@ -1,0 +1,25 @@
+2025-02-20 22:12:29,754 - support.logger - INFO - 
+Started Scenario :  Search Product -- @1.1 
+2025-02-20 22:12:42,098 - support.logger - INFO - Step failed : Verify Product results for "Watches" are shown on search result page.
+2025-02-20 22:13:47,552 - support.logger - INFO - 
+Started Scenario :  Search Product -- @1.1 
+2025-02-20 22:13:55,728 - support.logger - INFO - Step failed : Verify Product results for "Watches" are shown on search result page.
+2025-02-20 22:13:55,729 - support.logger - INFO - 
+Started Scenario :  Search Product -- @1.2 
+2025-02-20 22:14:06,491 - support.logger - INFO - Step failed : Verify Product results for "coffee" are shown on search result page.
+2025-02-20 22:18:29,379 - support.logger - INFO - 
+Started Scenario :  Search Product -- @1.1 
+2025-02-20 22:18:37,236 - support.logger - INFO - Step failed : Verify Product results for "Watches" are shown on search result page.
+2025-02-20 22:18:37,238 - support.logger - INFO - 
+Started Scenario :  Search Product -- @1.2 
+2025-02-20 22:18:46,488 - support.logger - INFO - Step failed : Verify Product results for "coffee" are shown on search result page.
+2025-02-20 22:19:49,834 - support.logger - INFO - 
+Started Scenario :  Search Product -- @1.1 
+2025-02-20 22:19:59,003 - support.logger - INFO - Step failed : Verify Product results for "Watches" are shown on search result page.
+2025-02-20 22:19:59,004 - support.logger - INFO - 
+Started Scenario :  Search Product -- @1.2 
+2025-02-20 22:20:08,804 - support.logger - INFO - Step failed : Verify Product results for "coffee" are shown on search result page.
+2025-02-20 22:21:32,396 - support.logger - INFO - 
+Started Scenario :  Search Product -- @1.1 
+2025-02-20 22:21:41,328 - support.logger - WARNING - 
+Step failed:  <then "Verify Product results for "Watches" are shown on search result page.">

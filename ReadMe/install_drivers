@@ -1,0 +1,14 @@
+-chromedrivermanager isntall
+
+python3 -m pip install webdriver_manager
+
+-service package- highlight on service keyword and more actions and import package.
+
+-webdriver
+ add this to environment file
+ from selenium import webdriver
+ then place cursor on selenium and webdriver and import package.
+
+-install package behave
+
+-from selenium.webdriver.chrome.service import Service

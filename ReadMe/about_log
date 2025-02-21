@@ -1,0 +1,2 @@
+-create logger file under support to log info
+-in environment file import header - from support.logger import logger

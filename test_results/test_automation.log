@@ -1,0 +1,44 @@
+2025-02-20 22:38:27,132 - support.logger - INFO - 
+Started Scenario :  Search Product -- @1.1 
+2025-02-20 22:38:36,965 - support.logger - INFO - 
+Started Scenario :  Search Product -- @1.2 
+2025-02-20 22:40:32,957 - support.logger - INFO - 
+Started Scenario :  Search Product -- @1.1 
+2025-02-20 22:40:42,839 - support.logger - INFO - 
+Started Scenario :  Search Product -- @1.2 
+2025-02-20 22:43:17,058 - support.logger - INFO - 
+Started Scenario :  Search Product -- @1.1 
+2025-02-20 22:43:19,847 - support.logger - INFO - 
+Started step  <given "Open home page https://www.target.com/">
+2025-02-20 22:43:23,577 - support.logger - INFO - 
+Started step  <when "Enter search keyword Watches in search textbox">
+2025-02-20 22:43:24,404 - support.logger - INFO - 
+Started step  <when "Click on Search button">
+2025-02-20 22:43:24,547 - support.logger - INFO - 
+Started step  <then "Verify Product results for Watches are shown on search result page.">
+2025-02-20 22:43:26,777 - support.logger - INFO - 
+Started step  <then "Verify page URL has Watches in it.">
+2025-02-20 22:43:58,394 - support.logger - INFO - 
+Started Scenario :  Search Product -- @1.1 
+2025-02-20 22:44:00,991 - support.logger - INFO - 
+Started step  <given "Open home page https://www.target.com/">
+2025-02-20 22:44:04,845 - support.logger - INFO - 
+Started step  <when "Enter search keyword Watches in search textbox">
+2025-02-20 22:44:05,479 - support.logger - INFO - 
+Started step  <when "Click on Search button">
+2025-02-20 22:44:05,648 - support.logger - INFO - 
+Started step  <then "Verify Product results for Watches are shown on search result page.">
+2025-02-20 22:44:06,849 - support.logger - INFO - 
+Started step  <then "Verify page URL has Watches in it.">
+2025-02-20 22:44:08,062 - support.logger - INFO - 
+Started Scenario :  Search Product -- @1.2 
+2025-02-20 22:44:10,482 - support.logger - INFO - 
+Started step  <given "Open home page https://www.target.com/">
+2025-02-20 22:44:14,457 - support.logger - INFO - 
+Started step  <when "Enter search keyword Coffee in search textbox">
+2025-02-20 22:44:15,042 - support.logger - INFO - 
+Started step  <when "Click on Search button">
+2025-02-20 22:44:15,259 - support.logger - INFO - 
+Started step  <then "Verify Product results for Coffee are shown on search result page.">
+2025-02-20 22:44:17,803 - support.logger - INFO - 
+Started step  <then "Verify page URL has Coffee in it.">
