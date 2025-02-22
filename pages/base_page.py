@@ -23,6 +23,9 @@ class Page:
     def click(self, *locator):
         self.driver.find_element(*locator).click()
 
+    def get_text(self, *locator):
+        return self.driver.find_element(*locator).text
+
     def verify_partial_text(self, expected_text, *locator):
         actual_text = self.find_element(*locator).text
         assert expected_text in actual_text, \

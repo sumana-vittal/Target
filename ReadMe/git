@@ -1,0 +1,11 @@
+create a repository in git account
+
+in pycharm terminal
+git init
+git remote add origin https://github.com/sumana-vittal/Target.git
+
+git status
+git add .
+git commit -m "----"
+right click on project and push
+or git push -u origin main

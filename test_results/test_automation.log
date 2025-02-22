@@ -42,3 +42,231 @@ Started step  <when "Click on Search button">
 Started step  <then "Verify Product results for Coffee are shown on search result page.">
 2025-02-20 22:44:17,803 - support.logger - INFO - 
 Started step  <then "Verify page URL has Coffee in it.">
+2025-02-21 19:12:43,979 - support.logger - INFO - 
+Started Scenario :  Verify to add any Target’s product into the cart, and make sure it’s there
+2025-02-21 19:12:47,667 - support.logger - INFO - 
+Started step  <given "Open home page https://www.target.com/">
+2025-02-21 19:12:50,773 - support.logger - INFO - 
+Started step  <when "Enter search keyword coffee in search textbox">
+2025-02-21 19:12:52,384 - support.logger - INFO - 
+Started step  <when "Click on Search button">
+2025-02-21 19:12:52,538 - support.logger - INFO - 
+Started step  <then "Verify Product results for coffee are shown on search result page.">
+2025-02-21 19:12:55,633 - support.logger - INFO - 
+Started step  <then "Verify page URL has coffee in it.">
+2025-02-21 19:12:55,681 - support.logger - INFO - 
+Started step  <when "Click on Add to Cart">
+2025-02-21 19:12:57,250 - support.logger - WARNING - 
+Step failed:  <when "Click on Add to Cart">
+2025-02-21 19:15:13,338 - support.logger - INFO - 
+Started Scenario :  Verify to add any Target’s product into the cart, and make sure it’s there
+2025-02-21 19:15:16,197 - support.logger - INFO - 
+Started step  <given "Open home page https://www.target.com/">
+2025-02-21 19:15:18,571 - support.logger - INFO - 
+Started step  <when "Enter search keyword coffee in search textbox">
+2025-02-21 19:15:20,708 - support.logger - INFO - 
+Started step  <when "Click on Search button">
+2025-02-21 19:15:20,882 - support.logger - INFO - 
+Started step  <then "Verify Product results for coffee are shown on search result page.">
+2025-02-21 19:15:23,337 - support.logger - INFO - 
+Started step  <then "Verify page URL has coffee in it.">
+2025-02-21 19:15:23,464 - support.logger - INFO - 
+Started step  <when "Click on Add to Cart">
+2025-02-21 19:15:24,016 - support.logger - WARNING - 
+Step failed:  <when "Click on Add to Cart">
+2025-02-21 19:16:36,767 - support.logger - INFO - 
+Started Scenario :  Verify to add any Target’s product into the cart, and make sure it’s there
+2025-02-21 19:16:39,330 - support.logger - INFO - 
+Started step  <given "Open home page https://www.target.com/">
+2025-02-21 19:16:42,139 - support.logger - INFO - 
+Started step  <when "Enter search keyword coffee in search textbox">
+2025-02-21 19:16:43,700 - support.logger - INFO - 
+Started step  <when "Click on Search button">
+2025-02-21 19:16:43,872 - support.logger - INFO - 
+Started step  <then "Verify Product results for coffee are shown on search result page.">
+2025-02-21 19:16:46,693 - support.logger - INFO - 
+Started step  <then "Verify page URL has coffee in it.">
+2025-02-21 19:16:46,701 - support.logger - INFO - 
+Started step  <when "Click on Add to Cart">
+2025-02-21 19:20:21,297 - support.logger - INFO - 
+Started Scenario :  Verify to add any Target’s product into the cart, and make sure it’s there
+2025-02-21 19:20:24,149 - support.logger - INFO - 
+Started step  <given "Open home page https://www.target.com/">
+2025-02-21 19:20:27,176 - support.logger - INFO - 
+Started step  <when "Enter search keyword coffee in search textbox">
+2025-02-21 19:20:28,715 - support.logger - INFO - 
+Started step  <when "Click on Search button">
+2025-02-21 19:20:28,898 - support.logger - INFO - 
+Started step  <then "Verify Product results for coffee are shown on search result page.">
+2025-02-21 19:20:31,334 - support.logger - INFO - 
+Started step  <then "Verify page URL has coffee in it.">
+2025-02-21 19:20:31,487 - support.logger - INFO - 
+Started step  <when "Click on Add to Cart">
+2025-02-21 19:20:38,088 - support.logger - WARNING - 
+Step failed:  <when "Click on Add to Cart">
+2025-02-21 19:20:58,022 - support.logger - INFO - 
+Started Scenario :  Verify to add any Target’s product into the cart, and make sure it’s there
+2025-02-21 19:21:00,574 - support.logger - INFO - 
+Started step  <given "Open home page https://www.target.com/">
+2025-02-21 19:21:03,567 - support.logger - INFO - 
+Started step  <when "Enter search keyword coffee in search textbox">
+2025-02-21 19:21:05,072 - support.logger - INFO - 
+Started step  <when "Click on Search button">
+2025-02-21 19:21:05,263 - support.logger - INFO - 
+Started step  <then "Verify Product results for coffee are shown on search result page.">
+2025-02-21 19:21:08,066 - support.logger - INFO - 
+Started step  <then "Verify page URL has coffee in it.">
+2025-02-21 19:21:08,078 - support.logger - INFO - 
+Started step  <when "Click on Add to Cart">
+2025-02-21 19:21:16,640 - support.logger - WARNING - 
+Step failed:  <when "Click on Add to Cart">
+2025-02-21 19:24:19,854 - support.logger - INFO - 
+Started Scenario :  Verify to add any Target’s product into the cart, and make sure it’s there
+2025-02-21 19:24:22,458 - support.logger - INFO - 
+Started step  <given "Open home page https://www.target.com/">
+2025-02-21 19:24:25,447 - support.logger - INFO - 
+Started step  <when "Enter search keyword coffee in search textbox">
+2025-02-21 19:24:26,944 - support.logger - INFO - 
+Started step  <when "Click on Search button">
+2025-02-21 19:24:27,136 - support.logger - INFO - 
+Started step  <then "Verify Product results for coffee are shown on search result page.">
+2025-02-21 19:24:30,163 - support.logger - INFO - 
+Started step  <then "Verify page URL has coffee in it.">
+2025-02-21 19:24:30,312 - support.logger - INFO - 
+Started step  <when "Click on Add to Cart">
+2025-02-21 19:24:37,436 - support.logger - INFO - 
+Started step  <when "Click on Add to Cart in right panel">
+2025-02-21 19:24:38,051 - support.logger - INFO - 
+Started step  <when "Click View cart and check out from right side panel">
+2025-02-21 19:24:40,320 - support.logger - INFO - 
+Started step  <then "verify it navigates to cart page">
+2025-02-21 19:24:40,502 - support.logger - INFO - 
+Started step  <then "verify one product is added in the cart">
+2025-02-21 19:24:41,966 - support.logger - INFO - 
+Started step  <then "verify price and product is same as added.">
+2025-02-21 19:24:42,794 - support.logger - WARNING - 
+Step failed:  <then "verify price and product is same as added.">
+2025-02-21 19:29:50,112 - support.logger - INFO - 
+Started Scenario :  Verify to add any Target’s product into the cart, and make sure it’s there
+2025-02-21 19:29:52,923 - support.logger - INFO - 
+Started step  <given "Open home page https://www.target.com/">
+2025-02-21 19:29:55,512 - support.logger - INFO - 
+Started step  <when "Enter search keyword coffee in search textbox">
+2025-02-21 19:29:57,768 - support.logger - INFO - 
+Started step  <when "Click on Search button">
+2025-02-21 19:29:57,943 - support.logger - INFO - 
+Started step  <then "Verify Product results for coffee are shown on search result page.">
+2025-02-21 19:30:00,435 - support.logger - INFO - 
+Started step  <then "Verify page URL has coffee in it.">
+2025-02-21 19:30:00,590 - support.logger - INFO - 
+Started step  <when "Click on Add to Cart">
+2025-02-21 19:30:07,773 - support.logger - INFO - 
+Started step  <when "Click on Add to Cart in right panel">
+2025-02-21 19:30:08,549 - support.logger - INFO - 
+Started step  <when "Click View cart and check out from right side panel">
+2025-02-21 19:30:10,516 - support.logger - INFO - 
+Started step  <then "verify it navigates to cart page">
+2025-02-21 19:30:10,680 - support.logger - INFO - 
+Started step  <then "verify one product is added in the cart">
+2025-02-21 19:30:11,674 - support.logger - INFO - 
+Started step  <then "verify price and product is same as added.">
+2025-02-21 19:39:27,127 - support.logger - INFO - 
+Started Scenario :  Verify to add any Target’s product into the cart, and make sure it’s there
+2025-02-21 19:39:29,691 - support.logger - INFO - 
+Started step  <given "Open home page https://www.target.com/">
+2025-02-21 19:39:33,639 - support.logger - INFO - 
+Started step  <when "Enter search keyword coffee in search textbox">
+2025-02-21 19:39:34,238 - support.logger - INFO - 
+Started step  <when "Click on Search button">
+2025-02-21 19:39:34,453 - support.logger - INFO - 
+Started step  <then "Verify Product results for coffee are shown on search result page.">
+2025-02-21 19:39:37,361 - support.logger - INFO - 
+Started step  <then "Verify page URL has coffee in it.">
+2025-02-21 19:39:37,384 - support.logger - INFO - 
+Started step  <when "Click on Add to Cart">
+2025-02-21 19:39:44,572 - support.logger - INFO - 
+Started step  <when "Click on Add to Cart in right panel">
+2025-02-21 19:39:45,279 - support.logger - INFO - 
+Started step  <when "Click View cart and check out from right side panel">
+2025-02-21 19:39:47,625 - support.logger - INFO - 
+Started step  <then "verify it navigates to cart page">
+2025-02-21 19:39:47,741 - support.logger - INFO - 
+Started step  <then "verify one product is added in the cart">
+2025-02-21 19:39:48,920 - support.logger - INFO - 
+Started step  <then "verify price and product is same as added.">
+2025-02-21 19:39:59,554 - support.logger - WARNING - 
+Step failed:  <then "verify price and product is same as added.">
+2025-02-21 19:46:17,183 - support.logger - INFO - 
+Started Scenario :  Verify to add any Target’s product into the cart, and make sure it’s there
+2025-02-21 19:46:20,034 - support.logger - INFO - 
+Started step  <given "Open home page https://www.target.com/">
+2025-02-21 19:46:23,696 - support.logger - INFO - 
+Started step  <when "Enter search keyword coffee in search textbox">
+2025-02-21 19:46:24,788 - support.logger - INFO - 
+Started step  <when "Click on Search button">
+2025-02-21 19:46:24,948 - support.logger - INFO - 
+Started step  <then "Verify Product results for coffee are shown on search result page.">
+2025-02-21 19:46:27,283 - support.logger - INFO - 
+Started step  <then "Verify page URL has coffee in it.">
+2025-02-21 19:46:27,594 - support.logger - INFO - 
+Started step  <when "Click on Add to Cart">
+2025-02-21 19:46:34,723 - support.logger - INFO - 
+Started step  <when "Click on Add to Cart in right panel">
+2025-02-21 19:46:35,960 - support.logger - INFO - 
+Started step  <when "Click View cart and check out from right side panel">
+2025-02-21 19:46:37,247 - support.logger - INFO - 
+Started step  <then "verify it navigates to cart page">
+2025-02-21 19:46:37,487 - support.logger - INFO - 
+Started step  <then "verify one product is added in the cart">
+2025-02-21 19:46:38,958 - support.logger - INFO - 
+Started step  <then "verify price and product is same as added.">
+2025-02-21 19:46:49,611 - support.logger - WARNING - 
+Step failed:  <then "verify price and product is same as added.">
+2025-02-22 08:29:46,658 - support.logger - INFO - 
+Started Scenario :  Verify to add any Target’s product into the cart, and make sure it’s there
+2025-02-22 08:29:50,306 - support.logger - INFO - 
+Started step  <given "Open home page https://www.target.com/">
+2025-02-22 08:29:53,636 - support.logger - INFO - 
+Started step  <when "Enter search keyword coffee in search textbox">
+2025-02-22 08:29:55,401 - support.logger - INFO - 
+Started step  <when "Click on Search button">
+2025-02-22 08:29:55,598 - support.logger - INFO - 
+Started step  <then "Verify Product results for coffee are shown on search result page.">
+2025-02-22 08:29:58,642 - support.logger - INFO - 
+Started step  <then "Verify page URL has coffee in it.">
+2025-02-22 08:29:58,689 - support.logger - INFO - 
+Started step  <when "Click on Add to Cart">
+2025-02-22 08:30:05,885 - support.logger - INFO - 
+Started step  <when "Click on Add to Cart in right panel">
+2025-02-22 08:30:07,246 - support.logger - INFO - 
+Started step  <when "Click View cart and check out from right side panel">
+2025-02-22 08:30:09,301 - support.logger - INFO - 
+Started step  <then "verify it navigates to cart page">
+2025-02-22 08:30:09,492 - support.logger - INFO - 
+Started step  <then "verify one product is added in the cart">
+2025-02-22 08:30:10,339 - support.logger - INFO - 
+Started step  <then "verify price and product is same as added.">
+2025-02-22 08:30:59,825 - support.logger - INFO - 
+Started Scenario :  Verify to add any Target’s product into the cart, and make sure it’s there
+2025-02-22 08:31:02,446 - support.logger - INFO - 
+Started step  <given "Open home page https://www.target.com/">
+2025-02-22 08:31:04,797 - support.logger - INFO - 
+Started step  <when "Enter search keyword coffee in search textbox">
+2025-02-22 08:31:06,813 - support.logger - INFO - 
+Started step  <when "Click on Search button">
+2025-02-22 08:31:07,001 - support.logger - INFO - 
+Started step  <then "Verify Product results for coffee are shown on search result page.">
+2025-02-22 08:31:09,337 - support.logger - INFO - 
+Started step  <then "Verify page URL has coffee in it.">
+2025-02-22 08:31:09,608 - support.logger - INFO - 
+Started step  <when "Click on Add to Cart">
+2025-02-22 08:31:16,723 - support.logger - INFO - 
+Started step  <when "Click on Add to Cart in right panel">
+2025-02-22 08:31:17,848 - support.logger - INFO - 
+Started step  <when "Click View cart and check out from right side panel">
+2025-02-22 08:31:19,865 - support.logger - INFO - 
+Started step  <then "verify it navigates to cart page">
+2025-02-22 08:31:20,098 - support.logger - INFO - 
+Started step  <then "verify one product is added in the cart">
+2025-02-22 08:31:21,106 - support.logger - INFO - 
+Started step  <then "verify price and product is same as added.">
